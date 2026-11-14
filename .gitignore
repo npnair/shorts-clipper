@@ -1,0 +1,6 @@
+cookies.txt
+*cookies*.txt
+clips/
+*.mp4
+*.ass
+__pycache__/
